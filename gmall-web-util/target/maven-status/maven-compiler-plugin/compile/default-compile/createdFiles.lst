@@ -1,0 +1,5 @@
+com\atguigu\gmall0624\config\LoginRequire.class
+com\atguigu\gmall0624\config\WebConst.class
+com\atguigu\gmall0624\config\AuthInterceptor.class
+com\atguigu\gmall0624\config\CookieUtil.class
+com\atguigu\gmall0624\config\WebMvcConfiguration.class

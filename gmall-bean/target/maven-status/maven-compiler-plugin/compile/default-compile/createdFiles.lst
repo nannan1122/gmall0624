@@ -1,0 +1,13 @@
+com\atguigu\gmall0624\bean\SkuImage.class
+com\atguigu\gmall0624\bean\OrderInfo.class
+com\atguigu\gmall0624\bean\UserInfo.class
+com\atguigu\gmall0624\bean\enums\PaymentWay.class
+com\atguigu\gmall0624\bean\SkuLsResult.class
+com\atguigu\gmall0624\bean\SkuInfo.class
+com\atguigu\gmall0624\bean\SkuSaleAttrValue.class
+com\atguigu\gmall0624\bean\enums\PaymentStatus.class
+com\atguigu\gmall0624\bean\enums\OrderStatus.class
+com\atguigu\gmall0624\bean\SkuAttrValue.class
+com\atguigu\gmall0624\bean\OrderDetail.class
+com\atguigu\gmall0624\bean\SkuLsParams.class
+com\atguigu\gmall0624\bean\enums\ProcessStatus.class
